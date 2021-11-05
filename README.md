@@ -1,1 +1,361 @@
-# lista-nova
+#EXTM3U 
+#EXTINF:-1,Cine Sky 01 4K
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35472
+#EXTINF:-1,Cine Sky 02 4K
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35473
+#EXTINF:-1,Cine Sky 03 4K
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35474
+#EXTINF:-1,Cine Sky 04 4K
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35475
+#EXTINF:-1,Cine Sky 05 4K
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35476
+#EXTINF:-1,Cine Sky 06 4K
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35477
+#EXTINF:-1,Cine Sky 07 4K
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35478
+#EXTINF:-1,Cine Sky 08 4K
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35479
+#EXTINF:-1,Cine Sky 09 4K
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35480
+#EXTINF:-1,Cine Sky 10 4K
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35481
+#EXTINF:-1,Cine Sky 11 4K
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35482
+#EXTINF:-1,Cine Sky 13 4K
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35484
+#EXTINF:-1,Cine Sky 14 4K
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35485
+#EXTINF:-1,Cine Sky 15 4K
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35486
+#EXTINF:-1,Gloobinho HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35962
+#EXTINF:-1,FOX Sports HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35963
+#EXTINF:-1,FOX Sports 2 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35964
+#EXTINF:-1,Band Sports HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35965
+#EXTINF:-1,RPC TV Curitiba - Globo HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35966
+#EXTINF:-1,Cultura HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35967
+#EXTINF:-1,Like HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35968
+#EXTINF:-1,E! HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35969
+#EXTINF:-1,Fish TV HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35970
+#EXTINF:-1,Band HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35971
+#EXTINF:-1,Pai Eterno HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35972
+#EXTINF:-1,SporTV3 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35973
+#EXTINF:-1,Viva HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35974
+#EXTINF:-1,Canal Brasil HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35975
+#EXTINF:-1,Combate HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35976
+#EXTINF:-1,Universal TV HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35977
+#EXTINF:-1,Premiere Clubes HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35978
+#EXTINF:-1,Premiere 2 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35979
+#EXTINF:-1,HBO HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35980
+#EXTINF:-1,HBO2 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35981
+#EXTINF:-1,HBO+ HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35982
+#EXTINF:-1,Arte 1 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35983
+#EXTINF:-1,HBO Family HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35984
+#EXTINF:-1,HBO Signature HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35985
+#EXTINF:-1,HBO POP HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35986
+#EXTINF:-1,Rede Vida HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35987
+#EXTINF:-1,Premiere 6 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35988
+#EXTINF:-1,Premiere 7 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35989
+#EXTINF:-1,Premiere 5 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35990
+#EXTINF:-1,RIC TV - RECORDTV
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35991
+#EXTINF:-1,RedeTV! HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35992
+#EXTINF:-1,Trace Brazuca HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35993
+#EXTINF:-1,GloboNews HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35994
+#EXTINF:-1,Telecine Premium HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35995
+#EXTINF:-1,Telecine Touch HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35996
+#EXTINF:-1,Telecine Pipoca HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35997
+#EXTINF:-1,BIS HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35998
+#EXTINF:-1,Mais na Tela HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35999
+#EXTINF:-1,Gloob HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36000
+#EXTINF:-1,OFF HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36001
+#EXTINF:-1,ESPN Brasil HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36002
+#EXTINF:-1,ESPN HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36003
+#EXTINF:-1,TNT HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36004
+#EXTINF:-1,Rede Massa - SBT HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36005
+#EXTINF:-1,TV Brasil HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36006
+#EXTINF:-1,AgroMais HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36007
+#EXTINF:-1,Telecine Action HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36008
+#EXTINF:-1,NHK
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36009
+#EXTINF:-1,Baby TV
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36010
+#EXTINF:-1,Telecine Fun HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36011
+#EXTINF:-1,Telecine Cult HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36012
+#EXTINF:-1,Studio Universal HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36013
+#EXTINF:-1,ESPN2 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36014
+#EXTINF:-1,Sabor & Arte HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36015
+#EXTINF:-1,Animal Planet HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36016
+#EXTINF:-1,Nickelodeon HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36017
+#EXTINF:-1,Nick Jr. HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36018
+#EXTINF:-1,STAR HITS HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36019
+#EXTINF:-1,STAR HITS 2 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36020
+#EXTINF:-1,France 24 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36021
+#EXTINF:-1,Playboy TV HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36022
+#EXTINF:-1,CONMEBOL TV 1
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36023
+#EXTINF:-1,SporTV2 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36024
+#EXTINF:-1,SporTV HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36025
+#EXTINF:-1,Premiere 3 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36026
+#EXTINF:-1,GNT HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36027
+#EXTINF:-1,Multishow HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36028
+#EXTINF:-1,Premiere 4 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36029
+#EXTINF:-1,Fashion TV HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36030
+#EXTINF:-1,Travel Box Brazil HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36031
+#EXTINF:-1,History 2 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36032
+#EXTINF:-1,MTV LIVE HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36033
+#EXTINF:-1,A&E HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36034
+#EXTINF:-1,TV Novo Tempo HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36035
+#EXTINF:-1,CONMEBOL TV 2
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36036
+#EXTINF:-1,CONMEBOL TV 3
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36037
+#EXTINF:-1,History HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36038
+#EXTINF:-1,Warner Channel HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36039
+#EXTINF:-1,Canal Sony HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36040
+#EXTINF:-1,AXN HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36041
+#EXTINF:-1,TLC HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36042
+#EXTINF:-1,Curta! HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36043
+#EXTINF:-1,DOG TV HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36044
+#EXTINF:-1,Discovery Channel HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36045
+#EXTINF:-1,Discovery Kids HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36046
+#EXTINF:-1,Boomerang HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36047
+#EXTINF:-1,Nat Geo Kids HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36048
+#EXTINF:-1,Music Box Brazil HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36049
+#EXTINF:-1,Prime Box Brazil HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36050
+#EXTINF:-1,Canal do Boi HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36051
+#EXTINF:-1,ESPN Extra HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36052
+#EXTINF:-1,Discovery Theater HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36053
+#EXTINF:-1,Discovery World HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36054
+#EXTINF:-1,Cartoon Network HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36055
+#EXTINF:-1,TBS HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36056
+#EXTINF:-1,ID HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36057
+#EXTINF:-1,TNT Séries HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36058
+#EXTINF:-1,Space HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36059
+#EXTINF:-1,TV Aparecida
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36060
+#EXTINF:-1,Futura HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36061
+#EXTINF:-1,HGTV HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36062
+#EXTINF:-1,Woohoo HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36063
+#EXTINF:-1,Band News HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36064
+#EXTINF:-1,Discovery Science HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36065
+#EXTINF:-1,Zoomoo HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36066
+#EXTINF:-1,Eurochannel HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36067
+#EXTINF:-1,Film&Arts HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36068
+#EXTINF:-1,CONMEBOL TV 4
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36069
+#EXTINF:-1,Globo HD RJ
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36070
+#EXTINF:-1,Globo HD SP
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36071
+#EXTINF:-1,TV Verdes Mares HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36072
+#EXTINF:-1,TV Bahia HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36073
+#EXTINF:-1,Globo HD Minas
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36074
+#EXTINF:-1,Globo Nordeste HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36075
+#EXTINF:-1,TV Liberal HD Belém
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36076
+#EXTINF:-1,RBS TV HD Porto Alegre
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36077
+#EXTINF:-1,Rede Amazônica Manaus HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36078
+#EXTINF:-1,TV Tem HD Bauru
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36079
+#EXTINF:-1,EPTV HD Campinas
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36080
+#EXTINF:-1,Globo Brasília HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36081
+#EXTINF:-1,Rede TV HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36082
+#EXTINF:-1,Paramount Network HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36083
+#EXTINF:-1,Combate HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36084
+#EXTINF:-1,TV Anhanguera Goiânia HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36085
+#EXTINF:-1,RPC TV Curitiba HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36086
+#EXTINF:-1,TV Rá Tim Bum HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36087
+#EXTINF:-1,STAR CHANNEL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36088
+#EXTINF:-1,RECORDTV HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36089
+#EXTINF:-1,STAR LIFE HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36090
+#EXTINF:-1,MTV 00's HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36091
+#EXTINF:-1,O Fio Invisível (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36194.mkv
+#EXTINF:-1,A Mansão (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36195.mkv
+#EXTINF:-1,A Senhora do Casarão (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36196.mkv
+#EXTINF:-1,Dano Colateral (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36197.mkv
+#EXTINF:-1,Dupla Explosiva 2 - E a Primeira-Dama do Crime (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36198.mkv
+#EXTINF:-1,Escape Room 2: Tensão Máxima (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36199.mkv
+#EXTINF:-1,Filhos do Ódio (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36200.mkv
+#EXTINF:-1,Halloween Kills: O Terror Continua (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36201.mkv
+#EXTINF:-1,Injustice (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36202.mp4
+#EXTINF:-1,Maligno (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36203.mkv
+#EXTINF:-1,Meu Irmão, Minha Irmã (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36204.mkv
+#EXTINF:-1,Na Mente do Demônio (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36205.mkv
+#EXTINF:-1,Pokémon, o Filme: Segredos da Selva (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36206.mkv
+#EXTINF:-1,Tem Alguém na sua Casa (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36207.mkv
+#EXTINF:-1,The Trip (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36208.mkv
+#EXTINF:-1,A Batalha Esquecida (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36313.mkv
+#EXTINF:-1,A Gangue (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36314.mkv
+#EXTINF:-1,Alucinação Fatal (2019)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36315.mkv
+#EXTINF:-1,A Maldição de Isabelle (2019)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36316.mkv
+#EXTINF:-1,A Menina Que Matou os Pais (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36317.mkv
+#EXTINF:-1,BAC Nord: Sob Pressão (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36318.mkv
+#EXTINF:-1,Cry Macho: O Caminho para Redenção (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36319.mkv
+#EXTINF:-1,Difícil de Engolir (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36320.mkv
+#EXTINF:-1,Forever Rich (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36321.mkv
+#EXTINF:-1,Free Guy: Assumindo o Controle (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36322.mkv
+#EXTINF:-1,G.I. Joe Origens: Snake Eyes (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36323.mkv
+#EXTINF:-1,Iniciação (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36324.mkv
+#EXTINF:-1,Dois + Dois (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36325.mkv
+#EXTINF:-1,Intrusion (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36326.mkv
+#EXTINF:-1,Je Suis Karl (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36327.mkv
+#EXTINF:-1,Mad Max: Estrada da Fúria (2015)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36328.mkv
+#EXTINF:-1,Negra Como a Noite (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36329.mkv
+#EXTINF:-1,O Baile das Loucas (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36330.mkv
+#EXTINF:-1,O Bingo Macabro (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36331.mkv
+#EXTINF:-1,O Culpado (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36332.mkv
+#EXTINF:-1,O Homem de Gelo (2012)
+http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/36333.mkv
